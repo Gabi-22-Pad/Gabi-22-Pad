@@ -1,5 +1,5 @@
 
-##👋 Hi there! I'm Gabriel... and I’m still working on my first projects
+## 👋 Hi there! I'm Gabriel... and I’m still working on my first projects
 
 ### 💬 About Me
 
