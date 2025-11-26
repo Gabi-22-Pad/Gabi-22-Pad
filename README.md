@@ -3,9 +3,9 @@
 
 ### 💬 About Me
 
--Graduate in Mathematics.
--Student of the Master’s in Data Science and Computer Engineering at UGR.
--Passionate about novel writing and sports.
+- Graduate in Mathematics.
+- Student of the Master’s in Data Science and Computer Engineering at UGR.
+- Passionate about novel writing and sports.
 
 ---
 
