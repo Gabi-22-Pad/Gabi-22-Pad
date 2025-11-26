@@ -21,11 +21,11 @@
 
 
 ## 🌱 Currently Learning
--Neural networks with Python.
--Understanding the mathematics behind the most advanced machine learning models.
--Git.
--SSMS.
--Novel writing.
+- Neural networks with Python.
+- Understanding the mathematics behind the most advanced machine learning models.
+- Git.
+- SSMS.
+- Novel writing.
 
 ---
 
@@ -34,4 +34,4 @@
 - **GitHub:** (https://github.com/Gabi-22-Pad)
 
 ### ✨ Thank you for visiting my GitHub!
-Feel free to explore my repositories or reach out!
+Feel free to explore my repositories :)
