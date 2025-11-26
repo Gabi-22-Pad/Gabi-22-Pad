@@ -10,9 +10,11 @@
 ## 🧠 Skills
 
 **Languages:**  
+
 `Python` (NumPy, Scipy, Pandas, Matplotlib, Seaborn, Scikit-learn), `R` (tidyverse, ggplot2), `C++`, `Octave` and `Wolfram Language`.
 
 **Frameworks & Tools:**  
+
 `Git`
 
 ---
