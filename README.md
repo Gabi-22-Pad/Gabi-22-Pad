@@ -1,7 +1,7 @@
 
-## 👋 Hi there! I'm Gabriel... and I’m still working on my first projects
+# 👋 Hi! I'm Gabriel... and I’m still working on my first projects
 
-### 💬 About Me
+## 💬 About Me
 
 - Graduate in Mathematics.
 - Student of the Master’s in Data Science and Computer Engineering at UGR.
