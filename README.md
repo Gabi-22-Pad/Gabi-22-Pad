@@ -25,6 +25,7 @@
 - Understanding the mathematics behind the most advanced machine learning models.
 - Git.
 - SSMS.
+- Improving my English level.
 - Novel writing.
 
 ---
