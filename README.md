@@ -30,6 +30,13 @@
 
 ---
 
+# 🚀 Highlighted Repositories
+
+- [**MLP_MNIST**](https://github.com/Gabi-22-Pad/MLP_Model_MNIST) - MLP model implementation for MNIST classification.
+
+
+
+
 ## 📫 How to Reach Me
 - **LinkedIn:** (www.linkedin.com/in/gabriel-padilla-haro-a55474252)  
 - **GitHub:** (https://github.com/Gabi-22-Pad)
