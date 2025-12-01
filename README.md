@@ -32,7 +32,7 @@
 
 ## 🚀 Highlighted Repositories
 
-- [**MLP_MNIST**](https://github.com/Gabi-22-Pad/MLP_Model_MNIST) - MLP model implementation for MNIST classification.
+- [**MLP_Model_MNIST**](https://github.com/Gabi-22-Pad/MLP_Model_MNIST) - MLP model implementation for MNIST classification.
 
 
 
