@@ -33,6 +33,8 @@
 ## 🚀 Highlighted Repositories
 
 - [**MLP_Model_MNIST**](https://github.com/Gabi-22-Pad/MLP_Model_MNIST) - MLP model implementation for MNIST classification.
+- [**Face_Mask_Detection**](https://github.com/Gabi-22-Pad/Face-Mask-Detection) - SVM model implementation based on HOG and LBP descriptors.
+
 
 
 
