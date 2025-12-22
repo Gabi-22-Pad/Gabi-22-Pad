@@ -15,7 +15,7 @@
 
 **Frameworks & Tools:**  
 
-`Git`
+`Git`, `LaTeX`.
 
 ---
 
