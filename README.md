@@ -11,7 +11,7 @@
 
 **Languages:**  
 
-`Python` (NumPy, Scipy, Pandas, Matplotlib, Seaborn, Scikit-learn), `R` (tidyverse, ggplot2), `C++`, `Octave` and `Wolfram Language`.
+`Python` (NumPy, Scipy, Pandas, Matplotlib, Seaborn, Scikit-learn, OpenCV, Keras), `R` (tidyverse, ggplot2, arules), `C++`, `Octave` and `Wolfram Language`.
 
 **Frameworks & Tools:**  
 
