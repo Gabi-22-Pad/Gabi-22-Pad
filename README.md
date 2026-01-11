@@ -19,6 +19,13 @@
 
 ---
 
+## 🚀 Highlighted Repositories
+
+- [**MLP_Model_MNIST**](https://github.com/Gabi-22-Pad/MLP_Model_MNIST) - MLP model implementation for MNIST classification.
+- [**Face_Mask_Detection**](https://github.com/Gabi-22-Pad/Face-Mask-Detection) - SVM model implementation based on HOG and LBP descriptors.
+- [**TrackML GNN Prototype**](https://github.com/Gabi-22-Pad/TrackML_Particle_Tracking_Interaction_Network_Prototype) - Interaction Network implementation for LHC particle tracking (CERN).
+
+---
 
 ## 🌱 Currently Learning
 - Neural networks with Python.
@@ -27,15 +34,6 @@
 - SSMS.
 - Improving my English level.
 - Novel writing.
-
----
-
-## 🚀 Highlighted Repositories
-
-- [**MLP_Model_MNIST**](https://github.com/Gabi-22-Pad/MLP_Model_MNIST) - MLP model implementation for MNIST classification.
-- [**Face_Mask_Detection**](https://github.com/Gabi-22-Pad/Face-Mask-Detection) - SVM model implementation based on HOG and LBP descriptors.
-
-
 
 
 
