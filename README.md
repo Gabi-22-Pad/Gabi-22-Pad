@@ -1,5 +1,5 @@
 
-# 👋 Hi! I'm Gabriel... and I’m still working on my first projects
+# 👋 Hi! I'm Gabriel... and I’m working on new projects
 
 ## 💬 About Me
 
@@ -15,7 +15,7 @@
 
 **Frameworks & Tools:**  
 
-`Git`, `LaTeX`.
+`VS Code`, `Jupyter Notebook`, `LaTeX`.
 
 ---
 
